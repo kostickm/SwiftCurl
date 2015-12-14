@@ -1,4 +1,4 @@
-module http_parser {
+module CurlHealpers {
     header "CurlHealpers.h"
     export *
 }
