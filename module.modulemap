@@ -1,4 +1,4 @@
-module CurlHealpers {
-    header "CurlHealpers.h"
+module CurlHelpers {
+    header "CurlHelpers.h"
     export *
 }
