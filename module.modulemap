@@ -17,6 +17,5 @@
 module CurlHelpers {
     header "CurlHelpers.h"
     link "curl"
-    link "curlHelpers"
     export *
 }
