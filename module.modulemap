@@ -14,8 +14,8 @@
  * limitations under the License.
  **/
 
-module CurlHelpers {
-    header "CurlHelpers.h"
+module CCurl {
+    header "shim.h"
     link "curl"
     export *
 }
