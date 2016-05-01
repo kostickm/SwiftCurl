@@ -17,7 +17,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "COpenSSL",
+	name: "CCurl",
 	pkgConfig: "libcurl",
 	providers: [
 		.Brew("curl"), 
