@@ -14,7 +14,7 @@
  * limitations under the License.
  **/
 
-module CCurl {
+module CCurl [system] {
     header "shim.h"
     link "curl"
     export *
